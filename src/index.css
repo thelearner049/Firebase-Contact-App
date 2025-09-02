@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-blue-dark: #121A2F;
+  --color-blue-light: #1b2540;
+}
+
+
+body{
+    background-color: #0a1128 ;
+}
