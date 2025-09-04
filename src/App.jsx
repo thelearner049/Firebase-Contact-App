@@ -8,7 +8,7 @@ import Modal from "./components/Modal";
 import ModalForm from "./components/ModalForm";
 import useDisclouse from "./hooks/useDisclouse";
 import { ToastContainer, toast } from "react-toastify";
-import NotFound from "./components/NotFound";
+import NotFound from "./components/NotFound";  
 
 function App() {
   let [contacts, setContacts] = useState([]);
